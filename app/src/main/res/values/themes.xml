@@ -1,0 +1,4 @@
+<resources>
+
+    <style name="Theme.MASLaunsher" parent="Theme.MaterialComponents.Light" />
+</resources>
